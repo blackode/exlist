@@ -1,6 +1,5 @@
 # Exlist
-
-**TODO: Add description**
+Extended functions of lists in the Elixir like summation,append,prepend and some other time saving code lines
 
 ## Installation
 
@@ -21,4 +20,3 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
       [applications: [:exlist]]
     end
     ```
-
